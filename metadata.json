@@ -1,0 +1,6 @@
+{
+  "name": "Organiza",
+  "description": "Aplicativo completo de gestão e organização com Notas, Funil Kanban com suporte a imagens, Diário de ações diárias e Finanças com cálculo automático de saldo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
